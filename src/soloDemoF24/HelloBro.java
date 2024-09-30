@@ -7,6 +7,7 @@ public class HelloBro {
 		System.out.println("adding another statement");
 		System.out.println("why do I keep messing up");
 		System.out.println("fixing mistake lol");
+		System.out.println("Programmer 2 did this :)");
 	}
 
 }
